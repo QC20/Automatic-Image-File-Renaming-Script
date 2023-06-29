@@ -14,12 +14,10 @@ This is a Python script that renames .jpeg or .jpg images in a folder to ascendi
 9. Run the script by executing the command `python filename-rename.py`.
 10. The script will rename the JPEG images in the specified folder to ascending numbers.
 
-**Note:** Make sure to replace `"path/to/folder"` with the actual path to your folder containing the JPEG images.
+**Note:** Make sure to replace `"path/to/folder"` with the actual path to your folder containing the JPEG or JPG images.
 
 ## Requirements
-
 - Python 3.x
 
 ## License
-
 This code is released under the [MIT License](LICENSE).

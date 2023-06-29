@@ -15,6 +15,5 @@ def rename_images(folder_path):
     print("Images renamed successfully!")
 
 # Folrder Path
-folder_path = "/Users/jonaskjeldmand/Desktop/Arduino-board-test-code"
 #folder_path = "path/to/folder"  # Replace with your folder path
 rename_images(folder_path)

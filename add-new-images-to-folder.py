@@ -2,7 +2,7 @@ import os
 # use this code if you have already numbered your images in ascending order
 # and now wants to add new images to the folder 
 def rename_images(folder_path):
-    file_extension = ".jpeg"  # Change to ".jpeg" if necessary
+    file_extension = ".png"  # Change to ".jpeg" or ".jpg" or ".png" as needed
 
     # Find the highest number used so far
     counter = 1
